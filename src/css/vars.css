@@ -79,7 +79,7 @@
   --warning-color: #e18114;
   --warning-on-color: var(--color-white);
   /* doc */
-  --doc-font-color: var(--color-jet-50);
+  --doc-font-color: var(--color-smoke-10);
   --doc-font-size: inherit;
   --doc-font-size--desktop: calc(17 / var(--rem-base) * 1rem);
   --doc-line-height: 1.6;
@@ -93,11 +93,11 @@
   --link_hover-font-color: #104d92;
   --link_unresolved-font-color: var(--important-color);
   --abstract-background: var(--color-jet-80);
-  --abstract-font-color: var(--color-jet-20);
+  --abstract-font-color: var(--color-smoke-10);
   --abstract-border-color: var(--panel-border-color);
   --admonition-background: var(--panel-background);
   --admonition-label-font-weight: var(--body-font-weight-bold);
-  --caption-font-color: var(--color-gray-70);
+  --caption-font-color: var(--color-smoke-10);
   --caption-font-weight: var(--body-font-weight-bold);
   --code-background: var(--panel-background);
   --code-font-color: var(--body-font-color);
